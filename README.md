@@ -40,9 +40,7 @@ MarkDown 내용 정리
 Click [My git hub](https://github.com/내주소)
 
 <!-- Image -->
-![Image](https://github.com/shingugitvr000/
-AI_Project/blob/main/ControlNet/Pixel.png?
-raw=true)
+![Image](https://github.com/shingugitvr000/AI_Project/blob/main/ControlNet/Pixel.png?raw=true)
 
 <!-- Table -->
 |Header|Description|Other|
