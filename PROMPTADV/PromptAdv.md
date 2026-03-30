@@ -16,9 +16,13 @@
 
 >masterpiece,(1girl :1.0), (flower : 1.0), (sky: 1.7), (tree : 1.0)
 
+# prompt alternating
+
 ![Image](https://github.com/Taehyeon88/AI_Project_2026_01_3B/blob/main/PROMPTADV/Fantasy_The%20Middle%20Ages.png?raw=true)
 
 >masterpiece, [Fantasy | The Middle Ages] 1girl
+
+# Blend two keywords
 
 ![Image](https://github.com/Taehyeon88/AI_Project_2026_01_3B/blob/main/PROMPTADV/00036-776849495.png?raw=true)
 
